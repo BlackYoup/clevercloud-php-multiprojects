@@ -1,0 +1,12 @@
+{
+    "name": "root/project2",
+    "require": {
+        "doctrine/orm": "^2.6"
+    },
+    "authors": [
+        {
+            "name": "Arnaud Lefebvre",
+            "email": "a.lefebvre@outlook.fr"
+        }
+    ]
+}

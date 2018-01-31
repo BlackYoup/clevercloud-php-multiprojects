@@ -1,5 +1,5 @@
 <?php
 
-echo "This is the root of the project, you failed";
+echo "This is the root of the project, it's not what you want";
 
 ?>
